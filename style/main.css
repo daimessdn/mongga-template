@@ -5,3 +5,48 @@ body {
 .col-md-3 .list-group {
 	margin-bottom: 15px;
 }
+
+/*label color on each category label*/
+#lounge {
+	border-right: 10px solid #f8f8f8;
+}
+
+#matipa {
+	border-right: 10px solid #cd3301;
+}
+
+#soshum {
+	border-right: 10px solid #fe6500;
+}
+
+#kesehatan {
+	border-right: 10px solid #ffca00;
+}
+
+#teknik {
+	border-right: 10px solid #99fe00;
+}
+
+#agkul {
+	border-right: 10px solid #6965fe;
+}
+
+#ekobis {
+	border-right: 10px solid #003396;
+}
+
+#budsas {
+	border-right: 10px solid #680064;
+}
+
+#tekno {
+	border-right: 10px solid #659a9a;
+}
+
+#arts {
+	border-right: 10px solid #006733;
+}
+
+#edu {
+	border-right: 10px solid #653200;
+}
